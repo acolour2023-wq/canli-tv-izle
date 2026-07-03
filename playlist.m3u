@@ -1,351 +1,350 @@
 #EXTM3U
-#PLAYLIST: AzerSat IPTV Ultimate - 127+ channels
-
-#EXTINF:-1 tvg-name="İctimai TV" group-title="az" tvg-logo="",🇦🇿 İctimai TV [1080p]
+#PLAYLIST: AzerSat IPTV — 127 kanal
+#EXTINF:-1 tvg-name="İctimai TV" group-title="🇦🇿 Azərbaycan",İctimai TV
 https://live.itv.az/itv.m3u8
 
-#EXTINF:-1 tvg-name="Xəzər TV" group-title="az" tvg-logo="",🇦🇿 Xəzər TV [720p]
+#EXTINF:-1 tvg-name="Xəzər TV" group-title="🇦🇿 Azərbaycan",Xəzər TV
 https://www.xezerxeber.az/stream/index.m3u8
 
-#EXTINF:-1 tvg-name="ARB TV" group-title="az" tvg-logo="",🇦🇿 ARB TV [HD]
+#EXTINF:-1 tvg-name="ARB TV" group-title="🇦🇿 Azərbaycan",ARB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 
-#EXTINF:-1 tvg-name="Baku TV" group-title="az news" tvg-logo="",🇦🇿 Baku TV [720p]
+#EXTINF:-1 tvg-name="Baku TV" group-title="🇦🇿 Azərbaycan",Baku TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
 
-#EXTINF:-1 tvg-name="Space TV" group-title="az" tvg-logo="",🇦🇿 Space TV [HD]
+#EXTINF:-1 tvg-name="Space TV" group-title="🇦🇿 Azərbaycan",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 
-#EXTINF:-1 tvg-name="Mədəniyyət TV" group-title="az" tvg-logo="",🇦🇿 Mədəniyyət TV [HD]
+#EXTINF:-1 tvg-name="Mədəniyyət TV" group-title="🇦🇿 Azərbaycan",Mədəniyyət TV
 https://str.yodacdn.net/medeniyyettele/index.m3u8
 
-#EXTINF:-1 tvg-name="Naxçıvan TV" group-title="az" tvg-logo="",🇦🇿 Naxçıvan TV [720p]
+#EXTINF:-1 tvg-name="Naxçıvan TV" group-title="🇦🇿 Azərbaycan",Naxçıvan TV
 https://str2.yodacdn.net/ntv/video.m3u8
 
-#EXTINF:-1 tvg-name="ARB 24" group-title="az news" tvg-logo="",🇦🇿 ARB 24 [HD]
+#EXTINF:-1 tvg-name="ARB 24" group-title="🇦🇿 Azərbaycan",ARB 24
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
 
-#EXTINF:-1 tvg-name="ARB Günəş" group-title="az" tvg-logo="",🇦🇿 ARB Günəş [HD]
+#EXTINF:-1 tvg-name="ARB Günəş" group-title="🇦🇿 Azərbaycan",ARB Günəş
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 
-#EXTINF:-1 tvg-name="Kanal S" group-title="az" tvg-logo="",🇦🇿 Kanal S [HD]
+#EXTINF:-1 tvg-name="Kanal S" group-title="🇦🇿 Azərbaycan",Kanal S
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
 
-#EXTINF:-1 tvg-name="Dünya TV" group-title="az" tvg-logo="",🇦🇿 Dünya TV [HD]
+#EXTINF:-1 tvg-name="Dünya TV" group-title="🇦🇿 Azərbaycan",Dünya TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
 
-#EXTINF:-1 tvg-name="Kəpəz TV" group-title="az" tvg-logo="",🇦🇿 Kəpəz TV [SD]
+#EXTINF:-1 tvg-name="Kəpəz TV" group-title="🇦🇿 Azərbaycan",Kəpəz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
 
-#EXTINF:-1 tvg-name="ATV (TR)" group-title="tr" tvg-logo="",🇹🇷 ATV (TR) [1080p]
+#EXTINF:-1 tvg-name="ATV (TR)" group-title="🇹🇷 Türkiyə",ATV (TR)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 
-#EXTINF:-1 tvg-name="A Haber" group-title="tr news" tvg-logo="",🇹🇷 A Haber [1080p]
+#EXTINF:-1 tvg-name="A Haber" group-title="🇹🇷 Türkiyə",A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 
-#EXTINF:-1 tvg-name="A Spor" group-title="tr sport" tvg-logo="",🇹🇷 A Spor [1080p]
+#EXTINF:-1 tvg-name="A Spor" group-title="tr sport",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
-#EXTINF:-1 tvg-name="Bloomberg HT" group-title="tr news" tvg-logo="",🇹🇷 Bloomberg HT [720p]
+#EXTINF:-1 tvg-name="Bloomberg HT" group-title="🇹🇷 Türkiyə",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 
-#EXTINF:-1 tvg-name="360 TV" group-title="tr news" tvg-logo="",🇹🇷 360 TV [720p]
+#EXTINF:-1 tvg-name="360 TV" group-title="🇹🇷 Türkiyə",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-#EXTINF:-1 tvg-name="A2 TV" group-title="tr" tvg-logo="",🇹🇷 A2 TV [1080p]
+#EXTINF:-1 tvg-name="A2 TV" group-title="🇹🇷 Türkiyə",A2 TV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 
-#EXTINF:-1 tvg-name="Kino TV HD" group-title="ru kino" tvg-logo="",🇷🇺 Kino TV HD [HD]
+#EXTINF:-1 tvg-name="Kino TV" group-title="🎬 Kino RU",Kino TV
 http://176.118.197.101:80/KinoTvHD/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Kino 24" group-title="ru kino" tvg-logo="",🇷🇺 Kino 24 [HD]
+#EXTINF:-1 tvg-name="Kino 24" group-title="🎬 Kino RU",Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 
-#EXTINF:-1 tvg-name="KinoHit" group-title="ru kino" tvg-logo="",🇷🇺 KinoHit [HD]
+#EXTINF:-1 tvg-name="KinoHit" group-title="🎬 Kino RU",KinoHit
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Kinopokaz HD" group-title="ru kino" tvg-logo="",🇷🇺 Kinopokaz HD [HD]
+#EXTINF:-1 tvg-name="Kinopokaz" group-title="🎬 Kino RU",Kinopokaz
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 
-#EXTINF:-1 tvg-name="Kinopremyera" group-title="ru kino" tvg-logo="",🇷🇺 Kinopremyera [HD]
+#EXTINF:-1 tvg-name="Kinopremyera" group-title="🎬 Kino RU",Kinopremyera
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 
-#EXTINF:-1 tvg-name="Kinoseriya HD" group-title="ru kino" tvg-logo="",🇷🇺 Kinoseriya HD [HD]
+#EXTINF:-1 tvg-name="Kinoseriya" group-title="🎬 Kino RU",Kinoseriya
 http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 
-#EXTINF:-1 tvg-name="Kinosvidanie" group-title="ru kino" tvg-logo="",🇷🇺 Kinosvidanie [HD]
+#EXTINF:-1 tvg-name="Kinosvidanie" group-title="🎬 Kino RU",Kinosvidanie
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
 
-#EXTINF:-1 tvg-name="Dom Kino" group-title="ru kino" tvg-logo="",🇷🇺 Dom Kino [HD]
+#EXTINF:-1 tvg-name="Dom Kino" group-title="🎬 Kino RU",Dom Kino
 http://31.148.48.15/Dom_Kino/index.m3u8
 
-#EXTINF:-1 tvg-name="Hit HD" group-title="ru kino" tvg-logo="",🇷🇺 Hit HD [HD]
+#EXTINF:-1 tvg-name="Hit" group-title="🎬 Kino RU",Hit
 http://hls127.freeott.top:8080/XitHD/video.m3u8
 
-#EXTINF:-1 tvg-name="Hollywood HD" group-title="ru kino" tvg-logo="",🇷🇺 Hollywood HD [HD]
+#EXTINF:-1 tvg-name="Hollywood" group-title="🎬 Kino RU",Hollywood
 http://31.148.48.15/MGM_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Nash Lubimoe Kino" group-title="ru kino" tvg-logo="",🇷🇺 Nash Lubimoe Kino [HD]
+#EXTINF:-1 tvg-name="Nashe Lubimoe Kino" group-title="🎬 Kino RU",Nashe Lubimoe Kino
 http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
 
-#EXTINF:-1 tvg-name="Nash Novoe Kino" group-title="ru kino" tvg-logo="",🇷🇺 Nash Novoe Kino [HD]
+#EXTINF:-1 tvg-name="Nash Novoe Kino" group-title="🎬 Kino RU",Nash Novoe Kino
 http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
 
-#EXTINF:-1 tvg-name="Indiyskoye Kino" group-title="ru kino" tvg-logo="",🇷🇺 Indiyskoye Kino [HD]
+#EXTINF:-1 tvg-name="Indiyskoye Kino" group-title="🎬 Kino RU",Indiyskoye Kino
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Mosfilm Gold" group-title="ru kino" tvg-logo="",🇷🇺 Mosfilm Gold [HD]
+#EXTINF:-1 tvg-name="Mosfilm Zolotaya Kol." group-title="🎬 Kino RU",Mosfilm Zolotaya Kol.
 http://31.222.235.15/mosfilm/index.m3u8
 
-#EXTINF:-1 tvg-name="Bollywood HD" group-title="ru kino" tvg-logo="",🇷🇺 Bollywood HD [HD]
+#EXTINF:-1 tvg-name="Bollywood" group-title="🎬 Kino RU",Bollywood
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 
-#EXTINF:-1 tvg-name="FAN" group-title="ru kino" tvg-logo="",🇷🇺 FAN [HD]
+#EXTINF:-1 tvg-name="FAN" group-title="🎬 Kino RU",FAN
 http://31.148.48.15/Fan/index.m3u8
 
-#EXTINF:-1 tvg-name="Pro100 TV" group-title="ru kino" tvg-logo="",🇷🇺 Pro100 TV [HD]
+#EXTINF:-1 tvg-name="Pro100 TV" group-title="🎬 Kino RU",Pro100 TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 
-#EXTINF:-1 tvg-name="Shot TV" group-title="ru kino" tvg-logo="",🇷🇺 Shot TV [HD]
+#EXTINF:-1 tvg-name="Shot TV" group-title="🎬 Kino RU",Shot TV
 http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
 
-#EXTINF:-1 tvg-name="Amedia 1" group-title="ru kino" tvg-logo="",🇷🇺 Amedia 1 [HD]
+#EXTINF:-1 tvg-name="Amedia 1" group-title="🎬 Kino RU",Amedia 1
 http://31.148.48.15/A1/index.m3u8
 
-#EXTINF:-1 tvg-name="Amedia 2" group-title="ru kino" tvg-logo="",🇷🇺 Amedia 2 [HD]
+#EXTINF:-1 tvg-name="Amedia 2" group-title="🎬 Kino RU",Amedia 2
 http://31.148.48.15/A2/index.m3u8
 
-#EXTINF:-1 tvg-name="Amedia Hit" group-title="ru kino" tvg-logo="",🇷🇺 Amedia Hit [HD]
+#EXTINF:-1 tvg-name="Amedia Hit" group-title="🎬 Kino RU",Amedia Hit
 http://31.148.48.15/Amedia_HIT_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Amedia Premium" group-title="ru kino" tvg-logo="",🇷🇺 Amedia Premium [720p]
+#EXTINF:-1 tvg-name="Amedia Premium" group-title="🎬 Kino RU",Amedia Premium
 http://31.148.48.15/Amedia_Premium_HD/index.m3u8
 
-#EXTINF:-1 tvg-name=".red" group-title="ru kino" tvg-logo="",🇷🇺 .red [HD]
+#EXTINF:-1 tvg-name=".red" group-title="🎬 Kino RU",.red
 http://5.188.159.128:8070/RED/index.m3u8
 
-#EXTINF:-1 tvg-name=".sci-fi" group-title="ru kino" tvg-logo="",🇷🇺 .sci-fi [HD]
+#EXTINF:-1 tvg-name=".sci-fi" group-title="🎬 Kino RU",.sci-fi
 http://31.148.48.15/SONY_SCI_FI/index.m3u8
 
-#EXTINF:-1 tvg-name="Europa Plus TV" group-title="ru music" tvg-logo="",🇷🇺 Europa Plus TV [1080p]
+#EXTINF:-1 tvg-name="Europa Plus TV" group-title="🎵 Musiqi RU",Europa Plus TV
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="BRIDGE TV" group-title="ru music" tvg-logo="",🇷🇺 BRIDGE TV [HD]
+#EXTINF:-1 tvg-name="BRIDGE TV" group-title="🎵 Musiqi RU",BRIDGE TV
 http://31.148.48.15/Bridge_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="BRIDGE Deluxe" group-title="ru music" tvg-logo="",🇷🇺 BRIDGE Deluxe [1080p]
+#EXTINF:-1 tvg-name="BRIDGE Deluxe" group-title="🎵 Musiqi RU",BRIDGE Deluxe
 http://31.148.48.15/Bridge_TV_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="BRIDGE Classic" group-title="ru music" tvg-logo="",🇷🇺 BRIDGE Classic [HD]
+#EXTINF:-1 tvg-name="BRIDGE Classic" group-title="🎵 Musiqi RU",BRIDGE Classic
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 
-#EXTINF:-1 tvg-name="Muz-TV" group-title="ru music" tvg-logo="",🇷🇺 Muz-TV [HD]
+#EXTINF:-1 tvg-name="Muz-TV" group-title="🎵 Musiqi RU",Muz-TV
 http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
 
-#EXTINF:-1 tvg-name="Shanson TV" group-title="ru music" tvg-logo="",🇷🇺 Shanson TV [HD]
+#EXTINF:-1 tvg-name="Shanson TV" group-title="🎵 Musiqi RU",Shanson TV
 http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
 
-#EXTINF:-1 tvg-name="Fon Music" group-title="ru music" tvg-logo="",🇷🇺 Fon Music [HD]
+#EXTINF:-1 tvg-name="Fon Music" group-title="🎵 Musiqi RU",Fon Music
 http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
 
-#EXTINF:-1 tvg-name="Maidan" group-title="ru music" tvg-logo="",🇷🇺 Maidan [HD]
+#EXTINF:-1 tvg-name="Maidan" group-title="🎵 Musiqi RU",Maidan
 http://hls127.freeott.top:8080/Maydan/video.m3u8
 
-#EXTINF:-1 tvg-name="Carousel HD" group-title="ru kids" tvg-logo="",🇷🇺 Carousel HD [1080p]
+#EXTINF:-1 tvg-name="Carousel" group-title="👶 Uşaq RU",Carousel
 http://31.148.48.15/Karusel_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Ani" group-title="ru kids" tvg-logo="",🇷🇺 Ani [HD]
+#EXTINF:-1 tvg-name="Ani" group-title="👶 Uşaq RU",Ani
 http://31.148.48.15/Ani/index.m3u8
 
-#EXTINF:-1 tvg-name="Gulli Girl" group-title="ru kids" tvg-logo="",🇷🇺 Gulli Girl [720p]
+#EXTINF:-1 tvg-name="Gulli Girl" group-title="👶 Uşaq RU",Gulli Girl
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Karapuz TV" group-title="ru kids" tvg-logo="",🇷🇺 Karapuz TV [720p]
+#EXTINF:-1 tvg-name="Karapuz TV" group-title="👶 Uşaq RU",Karapuz TV
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Mult i muzyka" group-title="ru kids" tvg-logo="",🇷🇺 Mult i muzyka [HD]
+#EXTINF:-1 tvg-name="Mult i muzyka" group-title="👶 Uşaq RU",Mult i muzyka
 http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
 
-#EXTINF:-1 tvg-name="Radost Moya" group-title="ru kids" tvg-logo="",🇷🇺 Radost Moya [HD]
+#EXTINF:-1 tvg-name="Radost Moya" group-title="👶 Uşaq RU",Radost Moya
 http://31.148.48.15/Radost_moya/index.m3u8
 
-#EXTINF:-1 tvg-name="Lyubimoe.TV" group-title="ru kids" tvg-logo="",🇷🇺 Lyubimoe.TV [720p]
+#EXTINF:-1 tvg-name="Lyubimoe.TV" group-title="👶 Uşaq RU",Lyubimoe.TV
 https://istoki.tv/live/stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Nat Geo Wild" group-title="ru doc" tvg-logo="",🇷🇺 Nat Geo Wild [1080p]
+#EXTINF:-1 tvg-name="Nat Geo Wild" group-title="📚 Sənədli RU",Nat Geo Wild
 http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 
-#EXTINF:-1 tvg-name="Da Vinci" group-title="ru doc" tvg-logo="",🇷🇺 Da Vinci [HD]
+#EXTINF:-1 tvg-name="Da Vinci" group-title="📚 Sənədli RU",Da Vinci
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 
-#EXTINF:-1 tvg-name="RT Doc Russian" group-title="ru doc" tvg-logo="",🇷🇺 RT Doc Russian [1080p]
+#EXTINF:-1 tvg-name="RT Doc Russian" group-title="📚 Sənədli RU",RT Doc Russian
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Istoriya" group-title="ru doc" tvg-logo="",🇷🇺 Istoriya [HD]
+#EXTINF:-1 tvg-name="Istoriya" group-title="📚 Sənədli RU",Istoriya
 http://hls127.freeott.top:8080/Istoriya/video.m3u8
 
-#EXTINF:-1 tvg-name="365 Dney" group-title="ru doc" tvg-logo="",🇷🇺 365 Dney [HD]
+#EXTINF:-1 tvg-name="365 Dney" group-title="📚 Sənədli RU",365 Dney
 http://31.148.48.15/365_dney/index.m3u8
 
-#EXTINF:-1 tvg-name="English Class" group-title="ru doc" tvg-logo="",🇷🇺 English Class [1080p]
+#EXTINF:-1 tvg-name="English Class" group-title="📚 Sənədli RU",English Class
 http://31.148.48.15/English_club_TV_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="RTG TV" group-title="ru doc" tvg-logo="",🇷🇺 RTG TV [720p]
+#EXTINF:-1 tvg-name="RTG TV" group-title="📚 Sənədli RU",RTG TV
 http://31.148.48.15/RTG_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Glazami Turista" group-title="ru doc" tvg-logo="",🇷🇺 Glazami Turista [HD]
+#EXTINF:-1 tvg-name="Glazami Turista" group-title="📚 Sənədli RU",Glazami Turista
 https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="KHL TV" group-title="ru sport" tvg-logo="",🇷🇺 KHL TV [720p]
+#EXTINF:-1 tvg-name="KHL TV" group-title="⚽ İdman RU",KHL TV
 http://31.148.48.15/KHL_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="KHL Prime" group-title="ru sport" tvg-logo="",🇷🇺 KHL Prime [720p]
+#EXTINF:-1 tvg-name="KHL Prime" group-title="⚽ İdman RU",KHL Prime
 http://31.148.48.15/KHL_TV_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Match! Strana" group-title="ru sport" tvg-logo="",🇷🇺 Match! Strana [720p]
+#EXTINF:-1 tvg-name="Match Strana" group-title="⚽ İdman RU",Match Strana
 http://31.148.48.15/Match_Strana/index.m3u8
 
-#EXTINF:-1 tvg-name="360 Novosti" group-title="ru news" tvg-logo="",🇷🇺 360 Novosti [1080p]
+#EXTINF:-1 tvg-name="360 Novosti" group-title="📰 Xəbər RU",360 Novosti
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CGTN Russkiy" group-title="ru news" tvg-logo="",🇷🇺 CGTN Russkiy [HD]
+#EXTINF:-1 tvg-name="CGTN Russkiy" group-title="📰 Xəbər RU",CGTN Russkiy
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 
-#EXTINF:-1 tvg-name="Euronews Russian" group-title="ru news" tvg-logo="",🇷🇺 Euronews Russian [720p]
+#EXTINF:-1 tvg-name="Euronews Russian" group-title="📰 Xəbər RU",Euronews Russian
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 
-#EXTINF:-1 tvg-name="Moskva 24" group-title="ru news" tvg-logo="",🇷🇺 Moskva 24 [HD]
+#EXTINF:-1 tvg-name="Moskva 24" group-title="📰 Xəbər RU",Moskva 24
 https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
 
-#EXTINF:-1 tvg-name="Moskva Doveriye" group-title="ru news" tvg-logo="",🇷🇺 Moskva Doveriye [HD]
+#EXTINF:-1 tvg-name="Moskva Doverie" group-title="📰 Xəbər RU",Moskva Doverie
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 
-#EXTINF:-1 tvg-name="RT Balkan" group-title="ru news" tvg-logo="",🇷🇺 RT Balkan [1080p]
+#EXTINF:-1 tvg-name="RT Balkan" group-title="📰 Xəbər RU",RT Balkan
 https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTVi" group-title="ru news" tvg-logo="",🇷🇺 RTVi [HD]
+#EXTINF:-1 tvg-name="RTVi" group-title="📰 Xəbər RU",RTVi
 https://s70378.cdn.ngenix.net/rtvi/index.m3u8
 
-#EXTINF:-1 tvg-name="RBK" group-title="ru news" tvg-logo="",🇷🇺 RBK [HD]
+#EXTINF:-1 tvg-name="RBK" group-title="📰 Xəbər RU",RBK
 http://92.50.128.180/utv/1358/index.m3u8
 
-#EXTINF:-1 tvg-name="Arhyz 24" group-title="ru news" tvg-logo="",🇷🇺 Arhyz 24 [HD]
+#EXTINF:-1 tvg-name="Arhyz 24" group-title="📰 Xəbər RU",Arhyz 24
 https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-name="Astrahan 24" group-title="ru news" tvg-logo="",🇷🇺 Astrahan 24 [HD]
+#EXTINF:-1 tvg-name="Astrahan 24" group-title="📰 Xəbər RU",Astrahan 24
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Belgorod 24" group-title="ru news" tvg-logo="",🇷🇺 Belgorod 24 [HD]
+#EXTINF:-1 tvg-name="Belgorod 24" group-title="📰 Xəbər RU",Belgorod 24
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 
-#EXTINF:-1 tvg-name="Vetta 24" group-title="ru news" tvg-logo="",🇷🇺 Vetta 24 [HD]
+#EXTINF:-1 tvg-name="Vetta 24" group-title="📰 Xəbər RU",Vetta 24
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Volgograd 24" group-title="ru news" tvg-logo="",🇷🇺 Volgograd 24 [HD]
+#EXTINF:-1 tvg-name="Volgograd 24" group-title="📰 Xəbər RU",Volgograd 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-name="Zapad 24" group-title="ru news" tvg-logo="",🇷🇺 Zapad 24 [HD]
+#EXTINF:-1 tvg-name="Zapad 24" group-title="📰 Xəbər RU",Zapad 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-name="Mir Belogorya" group-title="ru news" tvg-logo="",🇷🇺 Mir Belogorya [HD]
+#EXTINF:-1 tvg-name="Mir Belogorya" group-title="📰 Xəbər RU",Mir Belogorya
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 
-#EXTINF:-1 tvg-name="N.Novgorod 24" group-title="ru news" tvg-logo="",🇷🇺 N.Novgorod 24 [HD]
+#EXTINF:-1 tvg-name="N.Novgorod 24" group-title="📰 Xəbər RU",N.Novgorod 24
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sibir 24" group-title="ru news" tvg-logo="",🇷🇺 Sibir 24 [HD]
+#EXTINF:-1 tvg-name="Sibir 24" group-title="📰 Xəbər RU",Sibir 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-name="Yakutiya 24" group-title="ru news" tvg-logo="",🇷🇺 Yakutiya 24 [HD]
+#EXTINF:-1 tvg-name="Yakutiya 24" group-title="📰 Xəbər RU",Yakutiya 24
 https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Zvezda" group-title="ru" tvg-logo="",🇷🇺 Zvezda [HD]
+#EXTINF:-1 tvg-name="Zvezda" group-title="🇷🇺 Rusiya",Zvezda
 http://31.148.48.15/Zvezda/index.m3u8
 
-#EXTINF:-1 tvg-name="Perviy Kanal" group-title="ru" tvg-logo="",🇷🇺 Perviy Kanal [720p]
+#EXTINF:-1 tvg-name="1 Kanal" group-title="🇷🇺 Rusiya",1 Kanal
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
-#EXTINF:-1 tvg-name="Mir" group-title="ru" tvg-logo="",🇷🇺 Mir [HD]
+#EXTINF:-1 tvg-name="Mir" group-title="🇷🇺 Rusiya",Mir
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sever" group-title="ru" tvg-logo="",🇷🇺 Sever [HD]
+#EXTINF:-1 tvg-name="Sever" group-title="🇷🇺 Rusiya",Sever
 https://live.mediacdn.ru/sr1/sever/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Smotrim: Detektiv" group-title="ru" tvg-logo="",🇷🇺 Smotrim: Detektiv [HD]
+#EXTINF:-1 tvg-name="Chestniy Detektiv" group-title="🇷🇺 Rusiya",Chestniy Detektiv
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Dikiy" group-title="ru" tvg-logo="",🇷🇺 Dikiy [HD]
+#EXTINF:-1 tvg-name="Dikiy" group-title="🇷🇺 Rusiya",Dikiy
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
 
-#EXTINF:-1 tvg-name="Fashion Lifestyle" group-title="ru" tvg-logo="",🇷🇺 Fashion Lifestyle [1080p]
+#EXTINF:-1 tvg-name="Fashion TV" group-title="🇷🇺 Rusiya",Fashion TV
 http://31.148.48.15/Fashion_One_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="FoodTime" group-title="ru" tvg-logo="",🇷🇺 FoodTime [1080p]
+#EXTINF:-1 tvg-name="FoodTime" group-title="🇷🇺 Rusiya",FoodTime
 http://31.148.48.15/Eda_Premium_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Gagsnetwork" group-title="ru" tvg-logo="",🇷🇺 Gagsnetwork [HD]
+#EXTINF:-1 tvg-name="Gagsnetwork" group-title="🇷🇺 Rusiya",Gagsnetwork
 http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 
-#EXTINF:-1 tvg-name="Kuhnya TV" group-title="ru" tvg-logo="",🇷🇺 Kuhnya TV [HD]
+#EXTINF:-1 tvg-name="Kuhnya TV" group-title="🇷🇺 Rusiya",Kuhnya TV
 http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
 
-#EXTINF:-1 tvg-name="Kulinar TV" group-title="ru" tvg-logo="",🇷🇺 Kulinar TV [HD]
+#EXTINF:-1 tvg-name="Kulinar TV" group-title="🇷🇺 Rusiya",Kulinar TV
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 
-#EXTINF:-1 tvg-name="Nostalgiya" group-title="ru" tvg-logo="",🇷🇺 Nostalgiya [HD]
+#EXTINF:-1 tvg-name="Nostalgiya" group-title="🇷🇺 Rusiya",Nostalgiya
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 
-#EXTINF:-1 tvg-name="Pro Lyubov HD" group-title="ru" tvg-logo="",🇷🇺 Pro Lyubov HD [1080p]
+#EXTINF:-1 tvg-name="Pro Lyubov" group-title="🇷🇺 Rusiya",Pro Lyubov
 http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 
-#EXTINF:-1 tvg-name="Retro" group-title="ru" tvg-logo="",🇷🇺 Retro [HD]
+#EXTINF:-1 tvg-name="Retro" group-title="🇷🇺 Rusiya",Retro
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="NST" group-title="ru" tvg-logo="",🇷🇺 NST [HD]
+#EXTINF:-1 tvg-name="NST" group-title="🇷🇺 Rusiya",NST
 https://vod.tuva.ru/nst/index.m3u8
 
-#EXTINF:-1 tvg-name="Zhivaya Planeta" group-title="ru doc" tvg-logo="",🇷🇺 Zhivaya Planeta [HD]
+#EXTINF:-1 tvg-name="Zhivaya Planeta" group-title="📚 Sənədli RU",Zhivaya Planeta
 http://31.148.48.15/Zhivaya_Planeta/index.m3u8
 
-#EXTINF:-1 tvg-name="Moya Planeta HD" group-title="ru doc" tvg-logo="",🇷🇺 Moya Planeta HD [HD]
+#EXTINF:-1 tvg-name="Moya Planeta" group-title="📚 Sənədli RU",Moya Planeta
 http://31.148.48.15/Moya_Planeta_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Vmeste RF" group-title="ru" tvg-logo="",🇷🇺 Vmeste RF [HD]
+#EXTINF:-1 tvg-name="Vmeste RF" group-title="🇷🇺 Rusiya",Vmeste RF
 http://31.148.48.15/Vmeste_RF/index.m3u8
 
-#EXTINF:-1 tvg-name="CBC TV" group-title="az" tvg-logo="",🇦🇿 CBC TV [HD]
+#EXTINF:-1 tvg-name="CBC TV" group-title="🇦🇿 Azərbaycan",CBC TV
 https://str.yodacdn.net/cbc/index.m3u8
 
-#EXTINF:-1 tvg-name="Real TV" group-title="az" tvg-logo="",🇦🇿 Real TV [HD]
+#EXTINF:-1 tvg-name="Real TV" group-title="🇦🇿 Azərbaycan",Real TV
 https://str.yodacdn.net/real/index.m3u8
 
-#EXTINF:-1 tvg-name="Zoo TV" group-title="ru doc" tvg-logo="",🇷🇺 Zoo TV [HD]
+#EXTINF:-1 tvg-name="Zoo TV" group-title="📚 Sənədli RU",Zoo TV
 http://31.148.48.15/Zoo_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="Terra" group-title="ru doc" tvg-logo="",🇷🇺 Terra [HD]
+#EXTINF:-1 tvg-name="Terra" group-title="📚 Sənədli RU",Terra
 http://31.148.48.15/Terra/index.m3u8
 
-#EXTINF:-1 tvg-name="Match TV" group-title="ru sport" tvg-logo="",🇷🇺 Match TV [HD]
+#EXTINF:-1 tvg-name="Match TV" group-title="⚽ İdman RU",Match TV
 http://31.148.48.15/Match_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="Match! Premier" group-title="ru sport" tvg-logo="",🇷🇺 Match! Premier [HD]
+#EXTINF:-1 tvg-name="Match! Premier" group-title="⚽ İdman RU",Match! Premier
 http://31.148.48.15/Match_Premier/index.m3u8
 
-#EXTINF:-1 tvg-name="Match! Arena" group-title="ru sport" tvg-logo="",🇷🇺 Match! Arena [HD]
+#EXTINF:-1 tvg-name="Match! Arena" group-title="⚽ İdman RU",Match! Arena
 http://31.148.48.15/Match_Arena/index.m3u8
 
-#EXTINF:-1 tvg-name="Match! Igra" group-title="ru sport" tvg-logo="",🇷🇺 Match! Igra [HD]
+#EXTINF:-1 tvg-name="Match! Igra" group-title="⚽ İdman RU",Match! Igra
 http://31.148.48.15/Match_Igra/index.m3u8
 
-#EXTINF:-1 tvg-name="Match! Futbol 1" group-title="ru sport" tvg-logo="",🇷🇺 Match! Futbol 1 [HD]
+#EXTINF:-1 tvg-name="Match! Futbol 1" group-title="⚽ İdman RU",Match! Futbol 1
 http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Match! Futbol 2" group-title="ru sport" tvg-logo="",🇷🇺 Match! Futbol 2 [HD]
+#EXTINF:-1 tvg-name="Match! Futbol 2" group-title="⚽ İdman RU",Match! Futbol 2
 http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Match! Futbol 3" group-title="ru sport" tvg-logo="",🇷🇺 Match! Futbol 3 [HD]
+#EXTINF:-1 tvg-name="Match! Futbol 3" group-title="⚽ İdman RU",Match! Futbol 3
 http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Match! Strana" group-title="ru sport" tvg-logo="",🇷🇺 Match! Strana [720p]
+#EXTINF:-1 tvg-name="Match Strana" group-title="⚽ İdman RU",Match Strana
 http://31.148.48.15/Match_Strana/index.m3u8
 
