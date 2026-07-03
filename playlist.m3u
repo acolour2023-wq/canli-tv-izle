@@ -1,350 +1,351 @@
 #EXTM3U
-#PLAYLIST: AzerSat IPTV
-#EXTINF:-1 tvg-name="Ictimai TV" group-title="AZ - Azerbaycan",Ictimai TV
+#PLAYLIST: AzerSat IPTV - 116 channels
+
+#EXTINF:-1 tvg-id="" tvg-name="Ictimai TV" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="AZ - Azerbaycan",Ictimai TV
 https://live.itv.az/itv.m3u8
 
-#EXTINF:-1 tvg-name="Xezer TV" group-title="AZ - Azerbaycan",Xezer TV
+#EXTINF:-1 tvg-id="" tvg-name="Xezer TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png" group-title="AZ - Azerbaycan",Xezer TV
 https://www.xezerxeber.az/stream/index.m3u8
 
-#EXTINF:-1 tvg-name="ARB TV" group-title="AZ - Azerbaycan",ARB TV
+#EXTINF:-1 tvg-id="" tvg-name="ARB TV" tvg-logo="https://i.imgur.com/E97M2OL.png" group-title="AZ - Azerbaycan",ARB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 
-#EXTINF:-1 tvg-name="Baku TV" group-title="AZ - Azerbaycan",Baku TV
+#EXTINF:-1 tvg-id="" tvg-name="Baku TV" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="AZ - Azerbaycan",Baku TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
 
-#EXTINF:-1 tvg-name="Space TV" group-title="AZ - Azerbaycan",Space TV
+#EXTINF:-1 tvg-id="" tvg-name="Space TV" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="AZ - Azerbaycan",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 
-#EXTINF:-1 tvg-name="Medeniyyet TV" group-title="AZ - Azerbaycan",Medeniyyet TV
+#EXTINF:-1 tvg-id="" tvg-name="Medeniyyet TV" tvg-logo="https://i.imgur.com/PlvaDIa.png" group-title="AZ - Azerbaycan",Medeniyyet TV
 https://str.yodacdn.net/medeniyyettele/index.m3u8
 
-#EXTINF:-1 tvg-name="Naxcivan TV" group-title="AZ - Azerbaycan",Naxcivan TV
+#EXTINF:-1 tvg-id="" tvg-name="Naxcivan TV" tvg-logo="https://i.imgur.com/8yLFkdE.png" group-title="AZ - Azerbaycan",Naxcivan TV
 https://str2.yodacdn.net/ntv/video.m3u8
 
-#EXTINF:-1 tvg-name="ARB 24" group-title="AZ - Azerbaycan",ARB 24
+#EXTINF:-1 tvg-id="" tvg-name="ARB 24" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="AZ - Azerbaycan",ARB 24
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
 
-#EXTINF:-1 tvg-name="ARB Gunes" group-title="AZ - Azerbaycan",ARB Gunes
+#EXTINF:-1 tvg-id="" tvg-name="ARB Gunes" tvg-logo="https://i.imgur.com/dSg7KUK.png" group-title="AZ - Azerbaycan",ARB Gunes
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 
-#EXTINF:-1 tvg-name="Kanal S" group-title="AZ - Azerbaycan",Kanal S
+#EXTINF:-1 tvg-id="" tvg-name="Kanal S" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="AZ - Azerbaycan",Kanal S
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
 
-#EXTINF:-1 tvg-name="Dunya TV" group-title="AZ - Azerbaycan",Dunya TV
+#EXTINF:-1 tvg-id="" tvg-name="Dunya TV" tvg-logo="https://i.imgur.com/Lwgdbuu.png" group-title="AZ - Azerbaycan",Dunya TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
 
-#EXTINF:-1 tvg-name="Kepez TV" group-title="AZ - Azerbaycan",Kepez TV
+#EXTINF:-1 tvg-id="" tvg-name="Kepez TV" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="AZ - Azerbaycan",Kepez TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
 
-#EXTINF:-1 tvg-name="ATV (TR)" group-title="TR - Turkiye",ATV (TR)
+#EXTINF:-1 tvg-id="" tvg-name="ATV (TR)" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="TR - Turkiye",ATV (TR)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 
-#EXTINF:-1 tvg-name="A Haber" group-title="TR - Turkiye",A Haber
+#EXTINF:-1 tvg-id="" tvg-name="A Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="TR - Turkiye",A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 
-#EXTINF:-1 tvg-name="A Spor" group-title="tr sport",A Spor
+#EXTINF:-1 tvg-id="" tvg-name="A Spor" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="tr sport",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
-#EXTINF:-1 tvg-name="Bloomberg HT" group-title="TR - Turkiye",Bloomberg HT
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg HT" tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="TR - Turkiye",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 
-#EXTINF:-1 tvg-name="360 TV" group-title="TR - Turkiye",360 TV
+#EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="TR - Turkiye",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-#EXTINF:-1 tvg-name="A2 TV" group-title="TR - Turkiye",A2 TV
+#EXTINF:-1 tvg-id="" tvg-name="A2 TV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="TR - Turkiye",A2 TV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 
-#EXTINF:-1 tvg-name="Kino TV" group-title="Kino",Kino TV
+#EXTINF:-1 tvg-id="" tvg-name="Kino TV HD" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",Kino TV HD
 http://176.118.197.101:80/KinoTvHD/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Kino 24" group-title="Kino",Kino 24
+#EXTINF:-1 tvg-id="" tvg-name="Kino 24" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 
-#EXTINF:-1 tvg-name="KinoHit" group-title="Kino",KinoHit
+#EXTINF:-1 tvg-id="" tvg-name="KinoHit" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",KinoHit
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Kinopokaz" group-title="Kino",Kinopokaz
+#EXTINF:-1 tvg-id="" tvg-name="Kinopokaz" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",Kinopokaz
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 
-#EXTINF:-1 tvg-name="Kinopremyera" group-title="Kino",Kinopremyera
+#EXTINF:-1 tvg-id="" tvg-name="Kinopremyera" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",Kinopremyera
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 
-#EXTINF:-1 tvg-name="Kinoseriya" group-title="Kino",Kinoseriya
+#EXTINF:-1 tvg-id="" tvg-name="Kinoseriya" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",Kinoseriya
 http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 
-#EXTINF:-1 tvg-name="Kinosvidanie" group-title="Kino",Kinosvidanie
+#EXTINF:-1 tvg-id="" tvg-name="Kinosvidanie" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",Kinosvidanie
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
 
-#EXTINF:-1 tvg-name="Dom Kino" group-title="Kino",Dom Kino
+#EXTINF:-1 tvg-id="" tvg-name="Dom Kino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="Kino",Dom Kino
 http://31.148.48.15/Dom_Kino/index.m3u8
 
-#EXTINF:-1 tvg-name="Hit" group-title="Kino",Hit
+#EXTINF:-1 tvg-id="" tvg-name="Hit" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",Hit
 http://hls127.freeott.top:8080/XitHD/video.m3u8
 
-#EXTINF:-1 tvg-name="Hollywood" group-title="Kino",Hollywood
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",Hollywood
 http://31.148.48.15/MGM_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Nashe Lubimoe Kino" group-title="Kino",Nashe Lubimoe Kino
+#EXTINF:-1 tvg-id="" tvg-name="Lubimoe Kino" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",Lubimoe Kino
 http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
 
-#EXTINF:-1 tvg-name="Nashe Novoe Kino" group-title="Kino",Nashe Novoe Kino
+#EXTINF:-1 tvg-id="" tvg-name="Novoe Kino" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",Novoe Kino
 http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
 
-#EXTINF:-1 tvg-name="Indiyskoe Kino" group-title="Kino",Indiyskoe Kino
+#EXTINF:-1 tvg-id="" tvg-name="Indiyskoye Kino" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",Indiyskoye Kino
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Mosfilm Gold" group-title="Kino",Mosfilm Gold
+#EXTINF:-1 tvg-id="" tvg-name="Mosfilm Zolotaya Kol." tvg-logo="https://i.imgur.com/95Y8jb6.png" group-title="Kino",Mosfilm Zolotaya Kol.
 http://31.222.235.15/mosfilm/index.m3u8
 
-#EXTINF:-1 tvg-name="Bollywood" group-title="Kino",Bollywood
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",Bollywood
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 
-#EXTINF:-1 tvg-name="FAN" group-title="Kino",FAN
+#EXTINF:-1 tvg-id="" tvg-name="FAN" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",FAN
 http://31.148.48.15/Fan/index.m3u8
 
-#EXTINF:-1 tvg-name="Pro100" group-title="Kino",Pro100
+#EXTINF:-1 tvg-id="" tvg-name="Pro100" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",Pro100
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 
-#EXTINF:-1 tvg-name="Shot TV" group-title="Kino",Shot TV
+#EXTINF:-1 tvg-id="" tvg-name="Shot TV" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",Shot TV
 http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
 
-#EXTINF:-1 tvg-name="Amedia 1" group-title="Kino",Amedia 1
+#EXTINF:-1 tvg-id="" tvg-name="Amedia 1" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",Amedia 1
 http://31.148.48.15/A1/index.m3u8
 
-#EXTINF:-1 tvg-name="Amedia 2" group-title="Kino",Amedia 2
+#EXTINF:-1 tvg-id="" tvg-name="Amedia 2" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",Amedia 2
 http://31.148.48.15/A2/index.m3u8
 
-#EXTINF:-1 tvg-name="Amedia Hit" group-title="Kino",Amedia Hit
+#EXTINF:-1 tvg-id="" tvg-name="Amedia Hit" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",Amedia Hit
 http://31.148.48.15/Amedia_HIT_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Amedia Premium" group-title="Kino",Amedia Premium
+#EXTINF:-1 tvg-id="" tvg-name="Amedia Premium" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",Amedia Premium
 http://31.148.48.15/Amedia_Premium_HD/index.m3u8
 
-#EXTINF:-1 tvg-name=".red" group-title="Kino",.red
+#EXTINF:-1 tvg-id="" tvg-name=".red" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",.red
 http://5.188.159.128:8070/RED/index.m3u8
 
-#EXTINF:-1 tvg-name=".sci-fi" group-title="Kino",.sci-fi
+#EXTINF:-1 tvg-id="" tvg-name=".sci-fi" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Kino",.sci-fi
 http://31.148.48.15/SONY_SCI_FI/index.m3u8
 
-#EXTINF:-1 tvg-name="Europa Plus" group-title="Musiqi",Europa Plus
+#EXTINF:-1 tvg-id="" tvg-name="Europa Plus TV" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Musiqi",Europa Plus TV
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="BRIDGE TV" group-title="Musiqi",BRIDGE TV
+#EXTINF:-1 tvg-id="" tvg-name="BRIDGE TV" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Musiqi",BRIDGE TV
 http://31.148.48.15/Bridge_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="BRIDGE Deluxe" group-title="Musiqi",BRIDGE Deluxe
+#EXTINF:-1 tvg-id="" tvg-name="BRIDGE Deluxe" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Musiqi",BRIDGE Deluxe
 http://31.148.48.15/Bridge_TV_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="BRIDGE Classic" group-title="Musiqi",BRIDGE Classic
+#EXTINF:-1 tvg-id="" tvg-name="BRIDGE Classic" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Musiqi",BRIDGE Classic
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 
-#EXTINF:-1 tvg-name="Muz-TV" group-title="Musiqi",Muz-TV
+#EXTINF:-1 tvg-id="" tvg-name="Muz-TV" tvg-logo="https://i.imgur.com/BtqrHmz.png" group-title="Musiqi",Muz-TV
 http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
 
-#EXTINF:-1 tvg-name="Shanson TV" group-title="Musiqi",Shanson TV
+#EXTINF:-1 tvg-id="" tvg-name="Shanson TV" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Musiqi",Shanson TV
 http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
 
-#EXTINF:-1 tvg-name="Fon Music" group-title="Musiqi",Fon Music
+#EXTINF:-1 tvg-id="" tvg-name="Fon Music" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Musiqi",Fon Music
 http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
 
-#EXTINF:-1 tvg-name="Maidan" group-title="Musiqi",Maidan
+#EXTINF:-1 tvg-id="" tvg-name="Maidan" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Musiqi",Maidan
 http://hls127.freeott.top:8080/Maydan/video.m3u8
 
-#EXTINF:-1 tvg-name="Carousel" group-title="Usaq",Carousel
+#EXTINF:-1 tvg-id="" tvg-name="Carousel" tvg-logo="https://i.imgur.com/4fFMlVq.png" group-title="Usaq",Carousel
 http://31.148.48.15/Karusel_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Ani" group-title="Usaq",Ani
+#EXTINF:-1 tvg-id="" tvg-name="Ani" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Usaq",Ani
 http://31.148.48.15/Ani/index.m3u8
 
-#EXTINF:-1 tvg-name="Gulli Girl" group-title="Usaq",Gulli Girl
+#EXTINF:-1 tvg-id="" tvg-name="Gulli Girl" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Usaq",Gulli Girl
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Karapuz TV" group-title="Usaq",Karapuz TV
+#EXTINF:-1 tvg-id="" tvg-name="Karapuz TV" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Usaq",Karapuz TV
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Mult i Muzyka" group-title="Usaq",Mult i Muzyka
+#EXTINF:-1 tvg-id="" tvg-name="Mult i muzyka" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Usaq",Mult i muzyka
 http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
 
-#EXTINF:-1 tvg-name="Radost Moya" group-title="Usaq",Radost Moya
+#EXTINF:-1 tvg-id="" tvg-name="Radost Moya" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Usaq",Radost Moya
 http://31.148.48.15/Radost_moya/index.m3u8
 
-#EXTINF:-1 tvg-name="Lyubimoe TV" group-title="Usaq",Lyubimoe TV
+#EXTINF:-1 tvg-id="" tvg-name="Lyubimoe.TV" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Usaq",Lyubimoe.TV
 https://istoki.tv/live/stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Nat Geo Wild" group-title="Senedli",Nat Geo Wild
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Senedli",Nat Geo Wild
 http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 
-#EXTINF:-1 tvg-name="Da Vinci" group-title="Senedli",Da Vinci
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Senedli",Da Vinci
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 
-#EXTINF:-1 tvg-name="RT Doc" group-title="Senedli",RT Doc
+#EXTINF:-1 tvg-id="" tvg-name="RT Doc Russian" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Senedli",RT Doc Russian
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Istoriya" group-title="Senedli",Istoriya
+#EXTINF:-1 tvg-id="" tvg-name="Istoriya" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Senedli",Istoriya
 http://hls127.freeott.top:8080/Istoriya/video.m3u8
 
-#EXTINF:-1 tvg-name="365 Dney" group-title="Senedli",365 Dney
+#EXTINF:-1 tvg-id="" tvg-name="365 Dney" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Senedli",365 Dney
 http://31.148.48.15/365_dney/index.m3u8
 
-#EXTINF:-1 tvg-name="English Class" group-title="Senedli",English Class
+#EXTINF:-1 tvg-id="" tvg-name="English Class" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Senedli",English Class
 http://31.148.48.15/English_club_TV_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="RTG TV" group-title="Senedli",RTG TV
+#EXTINF:-1 tvg-id="" tvg-name="RTG TV" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Senedli",RTG TV
 http://31.148.48.15/RTG_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Glazami Turista" group-title="Senedli",Glazami Turista
+#EXTINF:-1 tvg-id="" tvg-name="Glazami Turista" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Senedli",Glazami Turista
 https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="KHL TV" group-title="Idman",KHL TV
+#EXTINF:-1 tvg-id="" tvg-name="KHL TV" tvg-logo="https://i.imgur.com/RgdHdOV.png" group-title="Idman",KHL TV
 http://31.148.48.15/KHL_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="KHL Prime" group-title="Idman",KHL Prime
+#EXTINF:-1 tvg-id="" tvg-name="KHL Prime" tvg-logo="https://i.imgur.com/pwxT0ON.png" group-title="Idman",KHL Prime
 http://31.148.48.15/KHL_TV_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Match Strana" group-title="Idman",Match Strana
+#EXTINF:-1 tvg-id="" tvg-name="Match Strana" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Idman",Match Strana
 http://31.148.48.15/Match_Strana/index.m3u8
 
-#EXTINF:-1 tvg-name="360 Novosti" group-title="Xeber",360 Novosti
+#EXTINF:-1 tvg-id="" tvg-name="360 Novosti" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Xeber",360 Novosti
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CGTN Russian" group-title="Xeber",CGTN Russian
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Russian" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Xeber",CGTN Russian
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 
-#EXTINF:-1 tvg-name="Euronews" group-title="Xeber",Euronews
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" group-title="Xeber",Euronews
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 
-#EXTINF:-1 tvg-name="Moskva 24" group-title="Xeber",Moskva 24
+#EXTINF:-1 tvg-id="" tvg-name="Moskva 24" tvg-logo="https://i.imgur.com/gXbUMVy.png" group-title="Xeber",Moskva 24
 https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
 
-#EXTINF:-1 tvg-name="Moskva Doverie" group-title="Xeber",Moskva Doverie
+#EXTINF:-1 tvg-id="" tvg-name="Moskva Doverie" tvg-logo="https://i.imgur.com/QDqDQzt.png" group-title="Xeber",Moskva Doverie
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 
-#EXTINF:-1 tvg-name="RT Balkan" group-title="Xeber",RT Balkan
+#EXTINF:-1 tvg-id="" tvg-name="RT Balkan" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Xeber",RT Balkan
 https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTVi" group-title="Xeber",RTVi
+#EXTINF:-1 tvg-id="" tvg-name="RTVi" tvg-logo="https://i.imgur.com/1AEhXyS.png" group-title="Xeber",RTVi
 https://s70378.cdn.ngenix.net/rtvi/index.m3u8
 
-#EXTINF:-1 tvg-name="RBK" group-title="Xeber",RBK
+#EXTINF:-1 tvg-id="" tvg-name="RBK" tvg-logo="https://i.imgur.com/P2Qii5B.png" group-title="Xeber",RBK
 http://92.50.128.180/utv/1358/index.m3u8
 
-#EXTINF:-1 tvg-name="Arhyz 24" group-title="Xeber",Arhyz 24
+#EXTINF:-1 tvg-id="" tvg-name="Arhyz 24" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Xeber",Arhyz 24
 https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-name="Astrahan 24" group-title="Xeber",Astrahan 24
+#EXTINF:-1 tvg-id="" tvg-name="Astrahan 24" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Xeber",Astrahan 24
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Belgorod 24" group-title="Xeber",Belgorod 24
+#EXTINF:-1 tvg-id="" tvg-name="Belgorod 24" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Xeber",Belgorod 24
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 
-#EXTINF:-1 tvg-name="Vetta 24" group-title="Xeber",Vetta 24
+#EXTINF:-1 tvg-id="" tvg-name="Vetta 24" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Xeber",Vetta 24
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Volgograd 24" group-title="Xeber",Volgograd 24
+#EXTINF:-1 tvg-id="" tvg-name="Volgograd 24" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Xeber",Volgograd 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-name="Zapad 24" group-title="Xeber",Zapad 24
+#EXTINF:-1 tvg-id="" tvg-name="Zapad 24" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Xeber",Zapad 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-name="Mir Belogorya" group-title="Xeber",Mir Belogorya
+#EXTINF:-1 tvg-id="" tvg-name="Mir Belogorya" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Xeber",Mir Belogorya
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 
-#EXTINF:-1 tvg-name="Nizhniy Novgorod 24" group-title="Xeber",Nizhniy Novgorod 24
+#EXTINF:-1 tvg-id="" tvg-name="Nizhniy Novgorod 24" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Xeber",Nizhniy Novgorod 24
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sibir 24" group-title="Xeber",Sibir 24
+#EXTINF:-1 tvg-id="" tvg-name="Sibir 24" tvg-logo="https://i.imgur.com/WxU6QUB.png" group-title="Xeber",Sibir 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-name="Yakutiya 24" group-title="Xeber",Yakutiya 24
+#EXTINF:-1 tvg-id="" tvg-name="Yakutiya 24" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Xeber",Yakutiya 24
 https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Zvezda" group-title="RU - Rusiya",Zvezda
+#EXTINF:-1 tvg-id="" tvg-name="Zvezda" tvg-logo="https://i.imgur.com/c0L0ncA.png" group-title="RU - Rusiya",Zvezda
 http://31.148.48.15/Zvezda/index.m3u8
 
-#EXTINF:-1 tvg-name="1 Kanal" group-title="RU - Rusiya",1 Kanal
+#EXTINF:-1 tvg-id="" tvg-name="1 Kanal" tvg-logo="https://i.imgur.com/1IqCGe9.png" group-title="RU - Rusiya",1 Kanal
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
-#EXTINF:-1 tvg-name="Mir" group-title="RU - Rusiya",Mir
+#EXTINF:-1 tvg-id="" tvg-name="Mir" tvg-logo="https://i.imgur.com/L2slsbG.png" group-title="RU - Rusiya",Mir
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sever" group-title="RU - Rusiya",Sever
+#EXTINF:-1 tvg-id="" tvg-name="Sever" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="RU - Rusiya",Sever
 https://live.mediacdn.ru/sr1/sever/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Chestniy Detektiv" group-title="RU - Rusiya",Chestniy Detektiv
+#EXTINF:-1 tvg-id="" tvg-name="Chestniy Detektiv" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="RU - Rusiya",Chestniy Detektiv
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Dikiy" group-title="RU - Rusiya",Dikiy
+#EXTINF:-1 tvg-id="" tvg-name="Dikiy" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="RU - Rusiya",Dikiy
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
 
-#EXTINF:-1 tvg-name="Fashion TV" group-title="RU - Rusiya",Fashion TV
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="RU - Rusiya",Fashion TV
 http://31.148.48.15/Fashion_One_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="FoodTime" group-title="RU - Rusiya",FoodTime
+#EXTINF:-1 tvg-id="" tvg-name="FoodTime" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="RU - Rusiya",FoodTime
 http://31.148.48.15/Eda_Premium_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Gagsnetwork" group-title="RU - Rusiya",Gagsnetwork
+#EXTINF:-1 tvg-id="" tvg-name="Gagsnetwork" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="RU - Rusiya",Gagsnetwork
 http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 
-#EXTINF:-1 tvg-name="Kuhnya TV" group-title="RU - Rusiya",Kuhnya TV
+#EXTINF:-1 tvg-id="" tvg-name="Kuhnya TV" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="RU - Rusiya",Kuhnya TV
 http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
 
-#EXTINF:-1 tvg-name="Kulinar TV" group-title="RU - Rusiya",Kulinar TV
+#EXTINF:-1 tvg-id="" tvg-name="Kulinar TV" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="RU - Rusiya",Kulinar TV
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 
-#EXTINF:-1 tvg-name="Nostalgiya" group-title="RU - Rusiya",Nostalgiya
+#EXTINF:-1 tvg-id="" tvg-name="Nostalgiya" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="RU - Rusiya",Nostalgiya
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 
-#EXTINF:-1 tvg-name="Pro Lyubov" group-title="RU - Rusiya",Pro Lyubov
+#EXTINF:-1 tvg-id="" tvg-name="Pro Lyubov" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="RU - Rusiya",Pro Lyubov
 http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 
-#EXTINF:-1 tvg-name="Retro" group-title="RU - Rusiya",Retro
+#EXTINF:-1 tvg-id="" tvg-name="Retro" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="RU - Rusiya",Retro
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="NST" group-title="RU - Rusiya",NST
+#EXTINF:-1 tvg-id="" tvg-name="NST" tvg-logo="https://i.imgur.com/uv2yxa5.png" group-title="RU - Rusiya",NST
 https://vod.tuva.ru/nst/index.m3u8
 
-#EXTINF:-1 tvg-name="Zhivaya Planeta" group-title="Senedli",Zhivaya Planeta
+#EXTINF:-1 tvg-id="" tvg-name="Zhivaya Planeta" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Senedli",Zhivaya Planeta
 http://31.148.48.15/Zhivaya_Planeta/index.m3u8
 
-#EXTINF:-1 tvg-name="Moya Planeta HD" group-title="Senedli",Moya Planeta HD
+#EXTINF:-1 tvg-id="" tvg-name="Moya Planeta" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Senedli",Moya Planeta
 http://31.148.48.15/Moya_Planeta_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Vmeste RF" group-title="RU - Rusiya",Vmeste RF
+#EXTINF:-1 tvg-id="" tvg-name="Vmeste RF" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="RU - Rusiya",Vmeste RF
 http://31.148.48.15/Vmeste_RF/index.m3u8
 
-#EXTINF:-1 tvg-name="CBC TV" group-title="AZ - Azerbaycan",CBC TV
+#EXTINF:-1 tvg-id="" tvg-name="CBC TV" tvg-logo="https://i.imgur.com/3mEdjuq.png" group-title="AZ - Azerbaycan",CBC TV
 https://str.yodacdn.net/cbc/index.m3u8
 
-#EXTINF:-1 tvg-name="Real TV" group-title="AZ - Azerbaycan",Real TV
+#EXTINF:-1 tvg-id="" tvg-name="Real TV" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="AZ - Azerbaycan",Real TV
 https://str.yodacdn.net/real/index.m3u8
 
-#EXTINF:-1 tvg-name="Zoo TV" group-title="Senedli",Zoo TV
+#EXTINF:-1 tvg-id="" tvg-name="Zoo TV" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Senedli",Zoo TV
 http://31.148.48.15/Zoo_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="Terra" group-title="Senedli",Terra
+#EXTINF:-1 tvg-id="" tvg-name="Terra" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Senedli",Terra
 http://31.148.48.15/Terra/index.m3u8
 
-#EXTINF:-1 tvg-name="Match TV" group-title="Idman",Match TV
+#EXTINF:-1 tvg-id="" tvg-name="Match TV" tvg-logo="https://i.imgur.com/kFdooR4.png" group-title="Idman",Match TV
 http://31.148.48.15/Match_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="Match Premier" group-title="Idman",Match Premier
+#EXTINF:-1 tvg-id="" tvg-name="Match Premier" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Idman",Match Premier
 http://31.148.48.15/Match_Premier/index.m3u8
 
-#EXTINF:-1 tvg-name="Match Arena" group-title="Idman",Match Arena
+#EXTINF:-1 tvg-id="" tvg-name="Match Arena" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Idman",Match Arena
 http://31.148.48.15/Match_Arena/index.m3u8
 
-#EXTINF:-1 tvg-name="Match Igra" group-title="Idman",Match Igra
+#EXTINF:-1 tvg-id="" tvg-name="Match Igra" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Idman",Match Igra
 http://31.148.48.15/Match_Igra/index.m3u8
 
-#EXTINF:-1 tvg-name="Match Futbol 1" group-title="Idman",Match Futbol 1
+#EXTINF:-1 tvg-id="" tvg-name="Match Futbol 1" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Idman",Match Futbol 1
 http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Match Futbol 2" group-title="Idman",Match Futbol 2
+#EXTINF:-1 tvg-id="" tvg-name="Match Futbol 2" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Idman",Match Futbol 2
 http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Match Futbol 3" group-title="Idman",Match Futbol 3
+#EXTINF:-1 tvg-id="" tvg-name="Match Futbol 3" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Idman",Match Futbol 3
 http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Match Strana" group-title="Idman",Match Strana
+#EXTINF:-1 tvg-id="" tvg-name="Match Strana" tvg-logo="https://raw.githubusercontent.com/acolour2023-wq/canli-tv-izle/main/tv-icon.png" group-title="Idman",Match Strana
 http://31.148.48.15/Match_Strana/index.m3u8
 
